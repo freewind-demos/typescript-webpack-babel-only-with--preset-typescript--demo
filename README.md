@@ -1,7 +1,7 @@
-TypeScript Webpack Babel Demo
-=======================================
+TypeScript Webpack Babel "preset-typescript" Demo
+=================================================
 
-使用babel继续处理由ts-loader产生的代码。
+使用`@babel/preset-typescript`直接处理typescript，不使用ts-loader
 
 ```
 npm install
