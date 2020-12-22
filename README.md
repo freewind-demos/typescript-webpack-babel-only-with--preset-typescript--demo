@@ -1,4 +1,4 @@
-TypeScript Webpack Babel "preset-typescript" Demo
+TypeScript Webpack Babel Only with "preset-typescript" Demo
 =================================================
 
 使用`@babel/preset-typescript`直接处理typescript，不使用ts-loader
