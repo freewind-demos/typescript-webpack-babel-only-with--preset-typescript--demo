@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "demo": "webpack-dev-server --open"
+    "demo": "webpack-dev-server --open",
+    "tsCheck": "tsc --noEmit"
   },
   "dependencies": {
     "jquery": "3.4.1"
