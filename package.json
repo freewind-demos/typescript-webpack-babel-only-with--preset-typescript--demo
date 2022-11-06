@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "demo": "webpack-dev-server --open",
+    "start": "webpack-dev-server --open",
     "tsCheck": "tsc --noEmit"
   },
   "dependencies": {
@@ -18,8 +18,8 @@
     "html-webpack-plugin": "3.2.0",
     "style-loader": "1.0.0",
     "ts-loader": "6.0.4",
-    "ts-node": "8.3.0",
-    "typescript": "3.6.2",
+    "ts-node": "10.9.1",
+    "typescript": "4.8.4",
     "webpack": "4.39.3",
     "webpack-cli": "3.3.8",
     "webpack-dev-server": "3.8.0"
